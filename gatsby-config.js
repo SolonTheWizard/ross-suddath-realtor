@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Ross Suddath - EXP `,
-    description: `The personal business page of Ross Suddath, leader of The Suddath Group at EXP Realty.`,
+    title: `Ross Suddath`,
+    description: `The personal business page of Ross Suddath, leader of The Suddath Group at eXp Realty.`,
     author: `@solonthewizard`,
   },
   plugins: [
